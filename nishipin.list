@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,static.nivod.tv
 DOMAIN-KEYWORD,nivod
 
 IP-CIDR,104.21.18.0/16,no-resolve
+IP-CIDR,104.22.18.0/16,no-resolve
 IP-CIDR,104.22.19.0/16,no-resolve
 IP-CIDR,104.22.20.0/16,no-resolve
 IP-CIDR,104.22.36.0/16,no-resolve
