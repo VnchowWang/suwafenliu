@@ -3,10 +3,14 @@ DOMAIN-SUFFIX,m1.nivod.tv
 DOMAIN-SUFFIX,m.nivod.tv
 DOMAIN-SUFFIX,api.nivod.tv
 DOMAIN-SUFFIX,www.nivod.tv
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,static.nivod.tv
 DOMAIN-KEYWORD,nivod
 
 IP-CIDR,104.21.18.0/16,no-resolve
+IP-CIDR,104.22.19.0/16,no-resolve
+IP-CIDR,104.22.20.0/16,no-resolve
 IP-CIDR,104.22.36.0/16,no-resolve
 IP-CIDR,104.22.37.0/16,no-resolve
 IP-CIDR,172.67.13.0/16,no-resolve
